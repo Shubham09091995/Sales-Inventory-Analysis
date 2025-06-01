@@ -6,7 +6,7 @@ This project provides SQL queries for analyzing sales performance, inventory lev
 
 ## Files
 - **Sales_Inventory_Report.pdf** → Full project report.
-- **SQL SCript- Full Detail SCQ Script from MYSQL Server
+- **SQL SCript- Full Detail SQL Script from MYSQL Server
 
 ## SQL Queries Covered:
 - Daily Sales Summary
