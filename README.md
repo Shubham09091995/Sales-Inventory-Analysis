@@ -14,9 +14,6 @@ This project provides SQL queries for analyzing sales performance, inventory lev
 - Top-Selling Products
 - Employee Sales Performance
 
-## How to Use
-1. Open the `.pdf` file for detailed project insights.
-3. Clone the repository to modify the reports if needed.
 
 ## Author
 Shubham Budhsingh Bhadoria
